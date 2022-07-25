@@ -1,1 +1,1 @@
-https://gayanthasam.github.io/group-test
+https://gayanthasam.github.io/group-test/index.html
